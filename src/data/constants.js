@@ -10,7 +10,7 @@ export const Bio = {
       "A highly organized, hardworking individual with good problem-solving skills and potential to perform well in teams",
     github: "https://github.com/Bhumika1408",
     resume:
-      "https://docs.google.com/document/d/1UHMoi6ClA82suU3skJ6AEk3Py6Pe1P8y_5rGzXc7p-Q/edit?usp=sharing",
+      "https://drive.google.com/file/d/1PUxBjuIqV0X5r_xQ5p-8nbzGZuAVajFH/view?usp=sharing",
     linkedin: "https://linkedin.com/in/bhumika-mallapur-8617ab23b",
 
   };
